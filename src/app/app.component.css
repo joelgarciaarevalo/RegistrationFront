@@ -1,0 +1,21 @@
+.demo-table {
+    width: 100%;
+}
+  
+.demo-button-container {
+    padding-bottom: 16px;
+}
+  
+.demo-button + .demo-button {
+    margin-left: 8px;
+}
+.tabla{
+    padding: 20px;
+}
+.titulo{
+    font-size: x-large;
+    font-style: italic;
+    align-items: center;
+    padding: 30px;
+    
+}
